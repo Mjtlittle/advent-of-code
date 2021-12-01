@@ -1,0 +1,112 @@
+[package]
+name = "Advent-of-Code-2019"
+version = "0.1.0"
+authors = ["Joshua Little <jlittle2001@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+
+[[bin]]
+name = "day_1"
+path = "src/day_1.rs"
+
+[[bin]]
+name = "day_2"
+path = "src/day_2.rs"
+
+[[bin]]
+name = "day_3"
+path = "src/day_3.rs"
+
+[[bin]]
+name = "day_4"
+path = "src/day_4.rs"
+
+[[bin]]
+name = "day_5"
+path = "src/day_5.rs"
+
+[[bin]]
+name = "day_6"
+path = "src/day_6.rs"
+
+[[bin]]
+name = "day_7"
+path = "src/day_7.rs"
+
+[[bin]]
+name = "day_8"
+path = "src/day_8.rs"
+
+[[bin]]
+name = "day_9"
+path = "src/day_9.rs"
+
+[[bin]]
+name = "day_10"
+path = "src/day_10.rs"
+
+[[bin]]
+name = "day_11"
+path = "src/day_11.rs"
+
+[[bin]]
+name = "day_12"
+path = "src/day_12.rs"
+
+[[bin]]
+name = "day_13"
+path = "src/day_13.rs"
+
+[[bin]]
+name = "day_14"
+path = "src/day_14.rs"
+
+[[bin]]
+name = "day_15"
+path = "src/day_15.rs"
+
+[[bin]]
+name = "day_16"
+path = "src/day_16.rs"
+
+[[bin]]
+name = "day_17"
+path = "src/day_17.rs"
+
+[[bin]]
+name = "day_18"
+path = "src/day_18.rs"
+
+[[bin]]
+name = "day_19"
+path = "src/day_19.rs"
+
+[[bin]]
+name = "day_20"
+path = "src/day_20.rs"
+
+[[bin]]
+name = "day_21"
+path = "src/day_21.rs"
+
+[[bin]]
+name = "day_22"
+path = "src/day_22.rs"
+
+[[bin]]
+name = "day_23"
+path = "src/day_23.rs"
+
+[[bin]]
+name = "day_24"
+path = "src/day_24.rs"
+
+[[bin]]
+name = "day_25"
+path = "src/day_25.rs"
+
+
