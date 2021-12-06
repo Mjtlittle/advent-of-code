@@ -11,8 +11,8 @@ const {
 const check_solution = (solution: () => number, expected: number) => {
   const result = solution();
   console.log(`Solution: ${result}`);
-  console.log(`${result == expected}`);
-  console.log();
+  // console.log(`${result == expected}`);
+  // console.log();
 };
 
 if (part_1) check_solution(part_1, expected_results[0]);
