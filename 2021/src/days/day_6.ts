@@ -1,21 +1,6 @@
 import { count } from "console";
 import { read_input, print } from "../lib";
 
-const nieve_tick = (timers: number[]): number[] => {
-  let old_timers = [];
-  let new_timers = [];
-  for (const timer of timers) {
-    if (timer === 0) {
-      new_timers.push(8);
-      old_timers.push(6);
-    } else {
-      old_timers.push(timer - 1);
-    }
-  }
-
-  return [...old_timers, ...new_timers];
-};
-
 type TimerCount = Map<number, number>;
 
 const add_to_count = (
