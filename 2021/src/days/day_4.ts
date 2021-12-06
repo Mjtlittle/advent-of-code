@@ -168,4 +168,4 @@ export const part_2 = () => {
   return uncalled_status_sum * last_number;
 };
 
-export const expected_results = [];
+export const expected_results = [16716, 4880];
